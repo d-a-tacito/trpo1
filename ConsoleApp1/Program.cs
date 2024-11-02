@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from person2!");
+            Console.WriteLine("Hello World from person2 and now from person1!");
         }
     }
 }
