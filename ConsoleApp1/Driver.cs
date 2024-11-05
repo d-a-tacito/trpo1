@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace ConsoleApp1;
 public class Driver
 {
+    /// <summary>
+    /// Имя водителя.
+    /// </summary>
     public string FirstName { get; set; }
 
     public string LastName { get; set; }
