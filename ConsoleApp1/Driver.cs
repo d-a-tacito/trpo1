@@ -12,6 +12,9 @@ public class Driver
     /// </summary>
     public string FirstName { get; set; }
 
+    /// <summary>
+    /// Фамилия водителя.
+    /// </summary>
     public string LastName { get; set; }
 
     public int YearExperience { get; set; }
