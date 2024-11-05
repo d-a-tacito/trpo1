@@ -8,7 +8,7 @@
             Console.WriteLine("New Hello World from person1");
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine($"Number of Hello World: {i}");
+                Console.WriteLine($"Number of Hello World: {i}.");
             }
         }
     }
