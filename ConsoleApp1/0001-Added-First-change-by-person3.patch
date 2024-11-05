@@ -1,0 +1,26 @@
+From b738d9a7742d7b85c57f014c5d5584b48222fb50 Mon Sep 17 00:00:00 2001
+From: dantonov <dananto02@gmail.com>
+Date: Tue, 5 Nov 2024 21:29:15 +0300
+Subject: [PATCH 1/2] Added First change by person3
+
+---
+ ConsoleApp1/Program.cs | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/ConsoleApp1/Program.cs b/ConsoleApp1/Program.cs
+index 0724023..96504a2 100644
+--- a/ConsoleApp1/Program.cs
++++ b/ConsoleApp1/Program.cs
+@@ -6,6 +6,8 @@
+         {
+             Console.WriteLine("Hello World from person2 and now from person1 and now from person3!");
+             Console.WriteLine("New Hello World from person1");
++
++            Console.WriteLine("First change by person3");
+         }
+     }
+ }
+\ No newline at end of file
+-- 
+2.39.1.windows.1
+
